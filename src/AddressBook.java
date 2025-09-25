@@ -8,6 +8,7 @@ public class AddressBook {
         AddressBook addressBook = new AddressBook();
         addressBook.addBuddy(buddy);
         addressBook.removeBuddy(buddy);
+        //added a comment just to make a commit
     }
     public AddressBook() {
         buddies = new ArrayList<>();
