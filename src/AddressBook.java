@@ -2,6 +2,8 @@ import java.util.ArrayList;
 
 //comment added from GitHUb
 
+//comment added only for branch-1
+
 public class AddressBook {
     private ArrayList<BuddyInfo> buddies;
 
